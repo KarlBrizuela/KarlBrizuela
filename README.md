@@ -1,110 +1,112 @@
-<!-- HEADER -->
+<!-- TITLE -->
 
-<h1 align="center">🌟 Welcome to My GitHub Portfolio 🌟</h1>
-<p align="center">A modern and clean visual README to showcase my projects with images.</p>
+<div align="center">
+  <img src="https://via.placeholder.com/900x200/1e1e2f/ffffff?text=Welcome+to+My+Portfolio" width="100%" alt="Header Banner"/>
+
+  <h1>✨ Hi, I'm Your Name ✨</h1>
+  <p><b>Full-Stack Developer • UI/UX Enthusiast • Creative Builder</b></p>
+
+  <br/>
+
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <br/><br/>
+</div>
 
 ---
 
-## 🚀 About Me
+# 🎨 About Me
 
-Hi! I'm **Your Name**, a developer passionate about building elegant, fast, and creative experiences.
+I'm a passionate developer who loves building **clean**, **fast** and **visually stunning** digital products.
 
-- 💡 Full-stack Developer  
-- 🎨 UI/UX Enthusiast  
-- ⚙️ Building cool projects weekly  
-- 🧠 Always learning  
+- 🚀 Full-stack engineer  
+- 🎨 UI/UX design lover  
+- 📱 Mobile & web apps  
+- 🧠 Always learning and creating  
 
 ---
 
-## 🖼️ Project Gallery
+# 📂 Featured Projects
 
-### 🔥 Featured Projects
+<div align="center">
+
+### 🌟 Top Projects Showcase
+
+</div>
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/yourusername/project1">
-        <img src="https://via.placeholder.com/300x180.png?text=Project+1+Preview" width="300px" alt="Project 1"/>
-        <br />
-        <b>Project One</b>
+        <img src="https://via.placeholder.com/420x250.png?text=Project+1" width="420" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
       </a>
-      <p>A short and catchy description of Project One.</p>
+      <h3>Project One</h3>
+      <p>A sleek and powerful tool designed to do amazing things.</p>
     </td>
-    <td align="center">
+
+    <td align="center" width="50%">
       <a href="https://github.com/yourusername/project2">
-        <img src="https://via.placeholder.com/300x180.png?text=Project+2+Preview" width="300px" alt="Project 2"/>
-        <br />
-        <b>Project Two</b>
+        <img src="https://via.placeholder.com/420x250.png?text=Project+2" width="420" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
       </a>
-      <p>A short and catchy description of Project Two.</p>
+      <h3>Project Two</h3>
+      <p>An innovative app that delivers a smooth user experience.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧩 More Projects
+# 🧩 More Creations
 
-| Project | Preview | Description |
-|--------|---------|-------------|
-| **Project Three** | <img src="https://via.placeholder.com/200x120.png?text=Project+3" width="200"/> | A short description of project three. |
-| **Project Four** | <img src="https://via.placeholder.com/200x120.png?text=Project+4" width="200"/> | A short description of project four. |
-| **Project Five** | <img src="https://via.placeholder.com/200x120.png?text=Project+5" width="200"/> | A short description of project five. |
-
----
-
-## 📊 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,git,github" />
-</p>
+| Preview | Project | Description |
+|---------|---------|-------------|
+| <img src="https://via.placeholder.com/200x120.png?text=Project+3" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Three** | A clean and simple UI-focused app. |
+| <img src="https://via.placeholder.com/200x120.png?text=Project+4" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Four** | A powerful backend service built with scalability in mind. |
+| <img src="https://via.placeholder.com/200x120.png?text=Project+5" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Five** | A fun experiment turned into a useful tool. |
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p>
-  <a href="https://github.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,php,java,html,css,tailwind,git,github,docker" />
+</div>
 
 ---
 
-## ⚡ GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-## 🧩 How to Use
-
-1. Replace **yourusername** everywhere.  
-2. Replace placeholder images with your real project screenshots.  
-3. Update project names, links, and descriptions.  
-4. Add more project blocks if needed.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+</div>
 
 ---
 
-⭐ **Want me to customize this with your real projects and images?**  
-Just send me:  
-✔ Your GitHub username  
-✔ Your project names  
-✔ Image links or uploads  
-✔ Descriptions  
-✔ Any theme preferences  
+# 🧠 How to Customize
 
-I can generate a *fully personalized README* for you!
+✔ Replace all **yourusername**  
+✔ Replace image URLs with your real screenshots  
+✔ Update project names + descriptions  
+✔ Add/remove project rows  
+
+---
+
+<div align="center">
+  <h2>🚀 Want an even more advanced, animated, or fully personalized README?</h2>
+  <p>Send me your project images + GitHub username and I’ll build it perfectly for you.</p>
+</div>
