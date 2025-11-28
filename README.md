@@ -1,112 +1,151 @@
-<!-- TITLE -->
+<!-- PORTFOLIO HEADER / HERO SECTION -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x200/1e1e2f/ffffff?text=Welcome+to+My+Portfolio" width="100%" alt="Header Banner"/>
 
-  <h1>✨ Hi, I'm Your Name ✨</h1>
-  <p><b>Full-Stack Developer • UI/UX Enthusiast • Creative Builder</b></p>
+<img src="https://via.placeholder.com/900x220/0d1224/ffffff?text=Welcome+to+My+Portfolio" width="100%" />
 
-  <br/>
+<br/><br/>
 
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+# 👋 Hi, I'm **Your Name**
+### Full-Stack Developer • UI/UX Designer • Creative Problem Solver  
 
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+💡 I love building clean, modern, and efficient applications that make an impact.  
+📍 Based in: Your Country  
+📧 Email: youremail@example.com
 
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-# 🎨 About Me
+# 🧑‍💻 About Me
 
-I'm a passionate developer who loves building **clean**, **fast** and **visually stunning** digital products.
+I’m a passionate developer focused on creating **beautiful**, **functional**, and **high-performance** digital experiences.
 
-- 🚀 Full-stack engineer  
-- 🎨 UI/UX design lover  
-- 📱 Mobile & web apps  
-- 🧠 Always learning and creating  
-
----
-
-# 📂 Featured Projects
-
-<div align="center">
-
-### 🌟 Top Projects Showcase
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://via.placeholder.com/420x250.png?text=Project+1" width="420" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
-      </a>
-      <h3>Project One</h3>
-      <p>A sleek and powerful tool designed to do amazing things.</p>
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://via.placeholder.com/420x250.png?text=Project+2" width="420" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
-      </a>
-      <h3>Project Two</h3>
-      <p>An innovative app that delivers a smooth user experience.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-# 🧩 More Creations
-
-| Preview | Project | Description |
-|---------|---------|-------------|
-| <img src="https://via.placeholder.com/200x120.png?text=Project+3" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Three** | A clean and simple UI-focused app. |
-| <img src="https://via.placeholder.com/200x120.png?text=Project+4" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Four** | A powerful backend service built with scalability in mind. |
-| <img src="https://via.placeholder.com/200x120.png?text=Project+5" width="180" style="border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.2);" /> | **Project Five** | A fun experiment turned into a useful tool. |
+- 🌱 Currently learning: **Next.js, TypeScript, Cloud Development**
+- 🎨 I care deeply about clean UI design
+- 🚀 I love building side projects
+- 🧩 I enjoy solving complex problems with simple solutions
 
 ---
 
 # 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,php,java,html,css,tailwind,git,github,docker" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,python,java,php,tailwind,figma,git,github,docker" />
+
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+### 🌟 Hand-picked projects that best represent my work
+
+<table>
+  <tr>
+
+    <td width="50%" align="center">
+      <img src="https://via.placeholder.com/420x240.png?text=Project+1" width="420" style="border-radius: 14px;box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
+      <h3>🌐 Project One</h3>
+      <p>A fully-featured web app with modern UI and fast performance.</p>
+      <a href="https://github.com/yourusername/project1">
+        🔗 View Project
+      </a>
+    </td>
+
+    <td width="50%" align="center">
+      <img src="https://via.placeholder.com/420x240.png?text=Project+2" width="420" style="border-radius: 14px;box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
+      <h3>📱 Project Two</h3>
+      <p>A clean mobile-focused application with smooth interactions.</p>
+      <a href="https://github.com/yourusername/project2">
+        🔗 View Project
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+---
+
+# 🎨 Project Gallery
+
+### A clean, grid-style showcase of my other work
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+3" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Three</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+4" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Four</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+5" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Five</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+6" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Six</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+7" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Seven</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x150.png?text=Project+8" width="250" style="border-radius: 10px;" />
+      <br/><b>Project Eight</b>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-# 🧠 How to Customize
+# 📊 GitHub Stats
 
-✔ Replace all **yourusername**  
-✔ Replace image URLs with your real screenshots  
-✔ Update project names + descriptions  
-✔ Add/remove project rows  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+# 📬 Contact Me
+
+If you’d like to collaborate, hire me, or just connect — feel free to reach out!
+
+📧 **youremail@example.com**  
+🔗 GitHub: **github.com/yourusername**  
+🔗 LinkedIn: **linkedin.com/in/yourlinkedin**
 
 ---
 
 <div align="center">
-  <h2>🚀 Want an even more advanced, animated, or fully personalized README?</h2>
-  <p>Send me your project images + GitHub username and I’ll build it perfectly for you.</p>
+
+### 🌟 *Thanks for visiting my portfolio! Feel free to explore my work.*
+
 </div>
+
