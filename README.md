@@ -11,8 +11,8 @@
 
 <p align="left">
 ✨ Currently learning: Next js, Laravel, react Native
-  <br>📚 Studying at University Of Caloocan City
-  <br>🎯 Goals: being software engineer
+  <br>📚 graduated at University Of Caloocan City
+  <br>🎯 software engineer
   <br> :godmode: Works at: Intra-Code IT Solutions
 </p>
 
